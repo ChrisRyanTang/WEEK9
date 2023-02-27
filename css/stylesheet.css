@@ -12,6 +12,15 @@ body {
 
 @media screen and (min-width:800px) {
     body {
-        background-color: rgb(126, 249, 126);
+        background-color: rgb(162, 236, 162);
     }
+}
+/* Nav */
+
+nav {
+    display:flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    border: 2px solid red;
+
 }
